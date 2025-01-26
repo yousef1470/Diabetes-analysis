@@ -98,10 +98,8 @@ Understanding these factors is crucial for early diagnosis and prevention of dia
 Here are some of the key visualizations created during the analysis:
 
 ### **BMI Categories**
-![BMI Bar Plot](![image](https://github.com/user-attachments/assets/5cfa8589-bf61-4d70-806e-9e06232c3e78)
-)
-![BMI Pie Chart](![image](https://github.com/user-attachments/assets/8c02c07b-11bd-413d-bb4b-b79ab063d444)
-)
+![BMI Bar Plot](images/BMIBarPlot.png)
+![BMI Pie Chart](images/BMIPiePlot.png)
 
 ### **Blood Pressure Categories**
 ![BP Bar Plot](images/bp_barplot.png)
